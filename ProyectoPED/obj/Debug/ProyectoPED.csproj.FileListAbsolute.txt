@@ -1,0 +1,191 @@
+C:\Users\Lisbeth\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\bin\Debug\ProyectoPED.exe.config
+C:\Users\Lisbeth\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\bin\Debug\ProyectoPED.exe
+C:\Users\Lisbeth\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\bin\Debug\ProyectoPED.pdb
+C:\Users\Lisbeth\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.csprojResolveAssemblyReference.cache
+C:\Users\Lisbeth\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Form1.resources
+C:\Users\Lisbeth\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Properties.Resources.resources
+C:\Users\Lisbeth\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.csproj.GenerateResource.Cache
+C:\Users\Lisbeth\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.exe
+C:\Users\Lisbeth\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.pdb
+C:\Users\Lisbeth\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Proveedores.resources
+C:\Users\Lisbeth\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Articulos.resources
+C:\Users\Lisbeth\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Inicio.resources
+C:\Users\Lisbeth\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Vendedores.resources
+C:\Users\Kat\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\bin\Debug\ProyectoPED.exe.config
+C:\Users\Kat\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\bin\Debug\ProyectoPED.exe
+C:\Users\Kat\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\bin\Debug\ProyectoPED.pdb
+C:\Users\Kat\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.csprojAssemblyReference.cache
+C:\Users\Kat\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Articulos.resources
+C:\Users\Kat\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Form1.resources
+C:\Users\Kat\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Inicio.resources
+C:\Users\Kat\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Properties.Resources.resources
+C:\Users\Kat\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Proveedores.resources
+C:\Users\Kat\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Vendedores.resources
+C:\Users\Kat\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.csproj.GenerateResource.cache
+C:\Users\Kat\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.csproj.CoreCompileInputs.cache
+C:\Users\Kat\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.exe
+C:\Users\Kat\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.pdb
+D:\Descargas\Proyecto_PED1.0\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.csprojAssemblyReference.cache
+D:\Descargas\Proyecto_PED1.0\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Articulos.resources
+D:\Descargas\Proyecto_PED1.0\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Form1.resources
+D:\Descargas\Proyecto_PED1.0\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Inicio.resources
+D:\Descargas\Proyecto_PED1.0\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Properties.Resources.resources
+D:\Descargas\Proyecto_PED1.0\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Proveedores.resources
+D:\Descargas\Proyecto_PED1.0\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Vendedores.resources
+D:\Descargas\Proyecto_PED1.0\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.csproj.GenerateResource.cache
+D:\Descargas\Proyecto_PED1.0\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.csproj.CoreCompileInputs.cache
+D:\Descargas\Proyecto_PED1.0\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.exe
+D:\Descargas\Proyecto_PED1.0\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.pdb
+D:\Descargas\Proyecto_PED1.0\Proyecto_PED1.0\ProyectoPED\ProyectoPED\bin\Debug\ProyectoPED.exe.config
+D:\Descargas\Proyecto_PED1.0\Proyecto_PED1.0\ProyectoPED\ProyectoPED\bin\Debug\ProyectoPED.exe
+D:\Descargas\Proyecto_PED1.0\Proyecto_PED1.0\ProyectoPED\ProyectoPED\bin\Debug\ProyectoPED.pdb
+C:\Users\Lisbeth\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Login.resources
+C:\Users\Lisbeth\Desktop\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Auxiliar.resources
+C:\Users\Oscar A.C\Desktop\Proyecto_PED1.0 (1)\Proyecto_PED1.0\ProyectoPED\ProyectoPED\bin\Debug\ProyectoPED.exe.config
+C:\Users\Oscar A.C\Desktop\Proyecto_PED1.0 (1)\Proyecto_PED1.0\ProyectoPED\ProyectoPED\bin\Debug\ProyectoPED.exe
+C:\Users\Oscar A.C\Desktop\Proyecto_PED1.0 (1)\Proyecto_PED1.0\ProyectoPED\ProyectoPED\bin\Debug\ProyectoPED.pdb
+C:\Users\Oscar A.C\Desktop\Proyecto_PED1.0 (1)\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.csprojAssemblyReference.cache
+C:\Users\Oscar A.C\Desktop\Proyecto_PED1.0 (1)\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Articulos.resources
+C:\Users\Oscar A.C\Desktop\Proyecto_PED1.0 (1)\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Auxiliar.resources
+C:\Users\Oscar A.C\Desktop\Proyecto_PED1.0 (1)\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Form1.resources
+C:\Users\Oscar A.C\Desktop\Proyecto_PED1.0 (1)\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Inicio.resources
+C:\Users\Oscar A.C\Desktop\Proyecto_PED1.0 (1)\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Login.resources
+C:\Users\Oscar A.C\Desktop\Proyecto_PED1.0 (1)\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Properties.Resources.resources
+C:\Users\Oscar A.C\Desktop\Proyecto_PED1.0 (1)\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Proveedores.resources
+C:\Users\Oscar A.C\Desktop\Proyecto_PED1.0 (1)\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Vendedores.resources
+C:\Users\Oscar A.C\Desktop\Proyecto_PED1.0 (1)\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.csproj.GenerateResource.cache
+C:\Users\Oscar A.C\Desktop\Proyecto_PED1.0 (1)\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.csproj.CoreCompileInputs.cache
+C:\Users\Oscar A.C\Desktop\Proyecto_PED1.0 (1)\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.exe
+C:\Users\Oscar A.C\Desktop\Proyecto_PED1.0 (1)\Proyecto_PED1.0\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.pdb
+C:\Users\Lisbeth\Desktop\ProyectoPED28_03_\ProyectoPED\bin\Debug\ProyectoPED.exe.config
+C:\Users\Lisbeth\Desktop\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.exe
+C:\Users\Lisbeth\Desktop\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.pdb
+C:\Users\Lisbeth\Desktop\ProyectoPED28_03_\ProyectoPED\bin\Debug\ProyectoPED.exe
+C:\Users\Lisbeth\Desktop\ProyectoPED28_03_\ProyectoPED\bin\Debug\ProyectoPED.pdb
+C:\Users\Lisbeth\Desktop\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.csprojResolveAssemblyReference.cache
+C:\Users\Lisbeth\Desktop\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.Articulos.resources
+C:\Users\Lisbeth\Desktop\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.Auxiliar.resources
+C:\Users\Lisbeth\Desktop\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.Form1.resources
+C:\Users\Lisbeth\Desktop\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.Inicio.resources
+C:\Users\Lisbeth\Desktop\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.Login.resources
+C:\Users\Lisbeth\Desktop\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.Properties.Resources.resources
+C:\Users\Lisbeth\Desktop\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.Proveedores.resources
+C:\Users\Lisbeth\Desktop\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.Vendedores.resources
+C:\Users\Lisbeth\Desktop\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.csproj.GenerateResource.Cache
+C:\Users\Lisbeth\Desktop\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.Categoria.resources
+C:\Users\Oscar A.C\Desktop\Proyecto lisbeth fucional\ProyectoPED28_03_\ProyectoPED\bin\Debug\ProyectoPED.exe.config
+C:\Users\Oscar A.C\Desktop\Proyecto lisbeth fucional\ProyectoPED28_03_\ProyectoPED\bin\Debug\ProyectoPED.exe
+C:\Users\Oscar A.C\Desktop\Proyecto lisbeth fucional\ProyectoPED28_03_\ProyectoPED\bin\Debug\ProyectoPED.pdb
+C:\Users\Oscar A.C\Desktop\Proyecto lisbeth fucional\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.csprojAssemblyReference.cache
+C:\Users\Oscar A.C\Desktop\Proyecto lisbeth fucional\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.Articulos.resources
+C:\Users\Oscar A.C\Desktop\Proyecto lisbeth fucional\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.Auxiliar.resources
+C:\Users\Oscar A.C\Desktop\Proyecto lisbeth fucional\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.Categoria.resources
+C:\Users\Oscar A.C\Desktop\Proyecto lisbeth fucional\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.Form1.resources
+C:\Users\Oscar A.C\Desktop\Proyecto lisbeth fucional\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.Inicio.resources
+C:\Users\Oscar A.C\Desktop\Proyecto lisbeth fucional\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.Login.resources
+C:\Users\Oscar A.C\Desktop\Proyecto lisbeth fucional\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.Properties.Resources.resources
+C:\Users\Oscar A.C\Desktop\Proyecto lisbeth fucional\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.Proveedores.resources
+C:\Users\Oscar A.C\Desktop\Proyecto lisbeth fucional\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.Vendedores.resources
+C:\Users\Oscar A.C\Desktop\Proyecto lisbeth fucional\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.csproj.GenerateResource.cache
+C:\Users\Oscar A.C\Desktop\Proyecto lisbeth fucional\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.csproj.CoreCompileInputs.cache
+C:\Users\Oscar A.C\Desktop\Proyecto lisbeth fucional\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.exe
+C:\Users\Oscar A.C\Desktop\Proyecto lisbeth fucional\ProyectoPED28_03_\ProyectoPED\obj\Debug\ProyectoPED.pdb
+C:\Users\Kat\Desktop\PED\ProyectoPED\bin\Debug\ProyectoPED.exe.config
+C:\Users\Kat\Desktop\PED\ProyectoPED\bin\Debug\ProyectoPED.exe
+C:\Users\Kat\Desktop\PED\ProyectoPED\bin\Debug\ProyectoPED.pdb
+C:\Users\Kat\Desktop\PED\ProyectoPED\obj\Debug\ProyectoPED.csprojAssemblyReference.cache
+C:\Users\Kat\Desktop\PED\ProyectoPED\obj\Debug\ProyectoPED.Articulos.resources
+C:\Users\Kat\Desktop\PED\ProyectoPED\obj\Debug\ProyectoPED.Auxiliar.resources
+C:\Users\Kat\Desktop\PED\ProyectoPED\obj\Debug\ProyectoPED.Categoria.resources
+C:\Users\Kat\Desktop\PED\ProyectoPED\obj\Debug\ProyectoPED.Form1.resources
+C:\Users\Kat\Desktop\PED\ProyectoPED\obj\Debug\ProyectoPED.Inicio.resources
+C:\Users\Kat\Desktop\PED\ProyectoPED\obj\Debug\ProyectoPED.Login.resources
+C:\Users\Kat\Desktop\PED\ProyectoPED\obj\Debug\ProyectoPED.Properties.Resources.resources
+C:\Users\Kat\Desktop\PED\ProyectoPED\obj\Debug\ProyectoPED.Proveedores.resources
+C:\Users\Kat\Desktop\PED\ProyectoPED\obj\Debug\ProyectoPED.Vendedores.resources
+C:\Users\Kat\Desktop\PED\ProyectoPED\obj\Debug\ProyectoPED.csproj.GenerateResource.cache
+C:\Users\Kat\Desktop\PED\ProyectoPED\obj\Debug\ProyectoPED.csproj.CoreCompileInputs.cache
+C:\Users\Kat\Desktop\PED\ProyectoPED\obj\Debug\ProyectoPED.exe
+C:\Users\Kat\Desktop\PED\ProyectoPED\obj\Debug\ProyectoPED.pdb
+C:\Users\Lisbeth\Desktop\PED_23_04_19\ProyectoPED\bin\Debug\ProyectoPED.exe.config
+C:\Users\Lisbeth\Desktop\PED_23_04_19\ProyectoPED\obj\Debug\ProyectoPED.exe
+C:\Users\Lisbeth\Desktop\PED_23_04_19\ProyectoPED\obj\Debug\ProyectoPED.pdb
+C:\Users\Lisbeth\Desktop\PED_23_04_19\ProyectoPED\bin\Debug\ProyectoPED.exe
+C:\Users\Lisbeth\Desktop\PED_23_04_19\ProyectoPED\bin\Debug\ProyectoPED.pdb
+C:\Users\Lisbeth\Desktop\PED_23_04_19\ProyectoPED\obj\Debug\ProyectoPED.csprojResolveAssemblyReference.cache
+C:\Users\Lisbeth\Desktop\PED_23_04_19\ProyectoPED\obj\Debug\ProyectoPED.Articulos.resources
+C:\Users\Lisbeth\Desktop\PED_23_04_19\ProyectoPED\obj\Debug\ProyectoPED.Auxiliar.resources
+C:\Users\Lisbeth\Desktop\PED_23_04_19\ProyectoPED\obj\Debug\ProyectoPED.Categoria.resources
+C:\Users\Lisbeth\Desktop\PED_23_04_19\ProyectoPED\obj\Debug\ProyectoPED.Form1.resources
+C:\Users\Lisbeth\Desktop\PED_23_04_19\ProyectoPED\obj\Debug\ProyectoPED.Inicio.resources
+C:\Users\Lisbeth\Desktop\PED_23_04_19\ProyectoPED\obj\Debug\ProyectoPED.Login.resources
+C:\Users\Lisbeth\Desktop\PED_23_04_19\ProyectoPED\obj\Debug\ProyectoPED.Properties.Resources.resources
+C:\Users\Lisbeth\Desktop\PED_23_04_19\ProyectoPED\obj\Debug\ProyectoPED.Proveedores.resources
+C:\Users\Lisbeth\Desktop\PED_23_04_19\ProyectoPED\obj\Debug\ProyectoPED.Vendedores.resources
+C:\Users\Lisbeth\Desktop\PED_23_04_19\ProyectoPED\obj\Debug\ProyectoPED.csproj.GenerateResource.Cache
+D:\Descargas\PED_29_04_19\PED_29_04_19\ProyectoPED\bin\Debug\ProyectoPED.exe.config
+D:\Descargas\PED_29_04_19\PED_29_04_19\ProyectoPED\bin\Debug\ProyectoPED.exe
+D:\Descargas\PED_29_04_19\PED_29_04_19\ProyectoPED\bin\Debug\ProyectoPED.pdb
+D:\Descargas\PED_29_04_19\PED_29_04_19\ProyectoPED\obj\Debug\ProyectoPED.csprojAssemblyReference.cache
+D:\Descargas\PED_29_04_19\PED_29_04_19\ProyectoPED\obj\Debug\ProyectoPED.Articulos.resources
+D:\Descargas\PED_29_04_19\PED_29_04_19\ProyectoPED\obj\Debug\ProyectoPED.Auxiliar.resources
+D:\Descargas\PED_29_04_19\PED_29_04_19\ProyectoPED\obj\Debug\ProyectoPED.Categoria.resources
+D:\Descargas\PED_29_04_19\PED_29_04_19\ProyectoPED\obj\Debug\ProyectoPED.Form1.resources
+D:\Descargas\PED_29_04_19\PED_29_04_19\ProyectoPED\obj\Debug\ProyectoPED.Inicio.resources
+D:\Descargas\PED_29_04_19\PED_29_04_19\ProyectoPED\obj\Debug\ProyectoPED.Login.resources
+D:\Descargas\PED_29_04_19\PED_29_04_19\ProyectoPED\obj\Debug\ProyectoPED.Properties.Resources.resources
+D:\Descargas\PED_29_04_19\PED_29_04_19\ProyectoPED\obj\Debug\ProyectoPED.Proveedores.resources
+D:\Descargas\PED_29_04_19\PED_29_04_19\ProyectoPED\obj\Debug\ProyectoPED.Vendedores.resources
+D:\Descargas\PED_29_04_19\PED_29_04_19\ProyectoPED\obj\Debug\ProyectoPED.csproj.GenerateResource.cache
+D:\Descargas\PED_29_04_19\PED_29_04_19\ProyectoPED\obj\Debug\ProyectoPED.csproj.CoreCompileInputs.cache
+D:\Descargas\PED_29_04_19\PED_29_04_19\ProyectoPED\obj\Debug\ProyectoPED.exe
+D:\Descargas\PED_29_04_19\PED_29_04_19\ProyectoPED\obj\Debug\ProyectoPED.pdb
+D:\Descargas\proyectos finales\PED_29_04_19-v1\ProyectoPED\bin\Debug\ProyectoPED.exe.config
+D:\Descargas\proyectos finales\PED_29_04_19-v1\ProyectoPED\bin\Debug\ProyectoPED.exe
+D:\Descargas\proyectos finales\PED_29_04_19-v1\ProyectoPED\bin\Debug\ProyectoPED.pdb
+D:\Descargas\proyectos finales\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.csprojAssemblyReference.cache
+D:\Descargas\proyectos finales\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.Articulos.resources
+D:\Descargas\proyectos finales\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.Auxiliar.resources
+D:\Descargas\proyectos finales\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.Categoria.resources
+D:\Descargas\proyectos finales\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.Form1.resources
+D:\Descargas\proyectos finales\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.Inicio.resources
+D:\Descargas\proyectos finales\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.Login.resources
+D:\Descargas\proyectos finales\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.Properties.Resources.resources
+D:\Descargas\proyectos finales\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.Proveedores.resources
+D:\Descargas\proyectos finales\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.Vendedores.resources
+D:\Descargas\proyectos finales\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.csproj.GenerateResource.cache
+D:\Descargas\proyectos finales\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.csproj.CoreCompileInputs.cache
+D:\Descargas\proyectos finales\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.exe
+D:\Descargas\proyectos finales\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.pdb
+C:\Users\Lisbeth\Desktop\PED_29_04_19-v1\ProyectoPED\bin\Debug\ProyectoPED.exe.config
+C:\Users\Lisbeth\Desktop\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.exe
+C:\Users\Lisbeth\Desktop\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.pdb
+C:\Users\Lisbeth\Desktop\PED_29_04_19-v1\ProyectoPED\bin\Debug\ProyectoPED.exe
+C:\Users\Lisbeth\Desktop\PED_29_04_19-v1\ProyectoPED\bin\Debug\ProyectoPED.pdb
+C:\Users\Lisbeth\Desktop\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.csprojResolveAssemblyReference.cache
+C:\Users\Lisbeth\Desktop\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.Articulos.resources
+C:\Users\Lisbeth\Desktop\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.Auxiliar.resources
+C:\Users\Lisbeth\Desktop\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.Categoria.resources
+C:\Users\Lisbeth\Desktop\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.Form1.resources
+C:\Users\Lisbeth\Desktop\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.Inicio.resources
+C:\Users\Lisbeth\Desktop\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.Login.resources
+C:\Users\Lisbeth\Desktop\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.Properties.Resources.resources
+C:\Users\Lisbeth\Desktop\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.Proveedores.resources
+C:\Users\Lisbeth\Desktop\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.Vendedores.resources
+C:\Users\Lisbeth\Desktop\PED_29_04_19-v1\ProyectoPED\obj\Debug\ProyectoPED.csproj.GenerateResource.Cache
+C:\Users\Lisbeth\Desktop\Universidad\Material Ciclo01_19\Materia_PEstructuras\PED_7_05_19\ProyectoPED\bin\Debug\ProyectoPED.exe.config
+C:\Users\Lisbeth\Desktop\Universidad\Material Ciclo01_19\Materia_PEstructuras\PED_7_05_19\ProyectoPED\obj\Debug\ProyectoPED.exe
+C:\Users\Lisbeth\Desktop\Universidad\Material Ciclo01_19\Materia_PEstructuras\PED_7_05_19\ProyectoPED\obj\Debug\ProyectoPED.pdb
+C:\Users\Lisbeth\Desktop\Universidad\Material Ciclo01_19\Materia_PEstructuras\PED_7_05_19\ProyectoPED\bin\Debug\ProyectoPED.exe
+C:\Users\Lisbeth\Desktop\Universidad\Material Ciclo01_19\Materia_PEstructuras\PED_7_05_19\ProyectoPED\bin\Debug\ProyectoPED.pdb
+C:\Users\Lisbeth\Desktop\Universidad\Material Ciclo01_19\Materia_PEstructuras\PED_7_05_19\ProyectoPED\obj\Debug\ProyectoPED.csprojResolveAssemblyReference.cache
+C:\Users\Lisbeth\Desktop\Universidad\Material Ciclo01_19\Materia_PEstructuras\PED_7_05_19\ProyectoPED\obj\Debug\ProyectoPED.Articulos.resources
+C:\Users\Lisbeth\Desktop\Universidad\Material Ciclo01_19\Materia_PEstructuras\PED_7_05_19\ProyectoPED\obj\Debug\ProyectoPED.Auxiliar.resources
+C:\Users\Lisbeth\Desktop\Universidad\Material Ciclo01_19\Materia_PEstructuras\PED_7_05_19\ProyectoPED\obj\Debug\ProyectoPED.Categoria.resources
+C:\Users\Lisbeth\Desktop\Universidad\Material Ciclo01_19\Materia_PEstructuras\PED_7_05_19\ProyectoPED\obj\Debug\ProyectoPED.Form1.resources
+C:\Users\Lisbeth\Desktop\Universidad\Material Ciclo01_19\Materia_PEstructuras\PED_7_05_19\ProyectoPED\obj\Debug\ProyectoPED.Inicio.resources
+C:\Users\Lisbeth\Desktop\Universidad\Material Ciclo01_19\Materia_PEstructuras\PED_7_05_19\ProyectoPED\obj\Debug\ProyectoPED.Login.resources
+C:\Users\Lisbeth\Desktop\Universidad\Material Ciclo01_19\Materia_PEstructuras\PED_7_05_19\ProyectoPED\obj\Debug\ProyectoPED.Properties.Resources.resources
+C:\Users\Lisbeth\Desktop\Universidad\Material Ciclo01_19\Materia_PEstructuras\PED_7_05_19\ProyectoPED\obj\Debug\ProyectoPED.Proveedores.resources
+C:\Users\Lisbeth\Desktop\Universidad\Material Ciclo01_19\Materia_PEstructuras\PED_7_05_19\ProyectoPED\obj\Debug\ProyectoPED.Vendedores.resources
+C:\Users\Lisbeth\Desktop\Universidad\Material Ciclo01_19\Materia_PEstructuras\PED_7_05_19\ProyectoPED\obj\Debug\ProyectoPED.csproj.GenerateResource.Cache
